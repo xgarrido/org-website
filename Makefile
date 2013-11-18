@@ -20,14 +20,14 @@ html: $(FILES)
 	@rm -f *.el
 	@echo "NOTICE: Documentation published to pub/"
 
-# publish: html
-# 	@find pub -name *.*~ | xargs rm -f
-# 	@(cd pub/html && tar czvf /tmp/org-cv-publish.tar.gz .)
-# 	@git checkout gh-pages
-# 	@tar xzvf /tmp/org-cv-publish.tar.gz
-# 	@if [ -n "`git status --porcelain`" ]; then git commit -am "update doc" && git push; fi
-# 	@git checkout master
-# 	@echo "NOTICE: HTML documentation published"
+publish: html
+	@find pub -name *.*~ | xargs rm -f
+	@(cd pub/ && tar czvf /tmp/org-website-publish.tar.gz .)
+	@git checkout xgarrido.github.io
+	@tar xzvf /tmp/org-website-publish.tar.gz
+	# @if [ -n "`git status --porcelain`" ]; then git commit -am "update doc" && git push; fi
+	# @git checkout master
+	@echo "NOTICE: HTML documentation published"
 
 clean:
 	@rm -f *.elc *.aux *.tex *.pdf *~
