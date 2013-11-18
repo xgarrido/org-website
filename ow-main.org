@@ -1,0 +1,57 @@
+#+TITLE: Org Website - Main
+#+OPTIONS: title:nil
+
+* Header
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: header
+:CUSTOM_ID: hidden
+:END:
+
+** Avatar
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: header-left
+:CUSTOM_ID: hidden
+:END:
+#+ATTR_HTML: :class author
+[[http://www.gravatar.com/avatar/0607f07778186929d04fe62a663afef4.png]]
+
+** Name & links
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: header-right
+:CUSTOM_ID: hidden
+:END:
+
+@@html:<h1>@@[[http://xgarrido.github.io][Xavier Garrido]]@@html:</h1>@@
+[[http://xgarrido.github.io][@@html:<small><i class="fa fa-github-alt"></i>@@ xgarrido@@html:</small>@@]]
+[[mailto:xgarrido.garrido@lal.in2p3.fr][@@html:<small><i class="fa fa-envelope-o"></i>@@ contact@@html:</small>@@]]
+
+* Biography
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: section section-right
+:CUSTOM_ID: hidden
+:END:
+
+#+BEGIN_QUOTE
+I'm an assistant professor at Paris-South University in Orsay. I'm currently
+working on neutrino physics at the Linear Accelerator Laboratory, looking for
+Majorana neutrino wit SuperNEMO experiment. Take a look at my [[http://xgarrido.github.io/org-resume/][C.V.]] or scroll
+down to read about some of the projects that I'm working on.
+#+END_QUOTE
+
+* Research
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: section section-title
+:END:
+
+* Footer
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: footer
+:CUSTOM_ID: hidden
+:END:
+
+I'm on [[http://github.com/xgarrido][GitHub]] and here's my [[http://xgarrido.github.io/org-resume/][C.V.]].
+
+Unless otherwise noted, all content by [[http://dan.iel.fm/][Dan Foreman-Mackey]]. Licensed under
+[[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons]].
+
+<<html-postamble()>>
