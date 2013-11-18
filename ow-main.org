@@ -34,11 +34,16 @@
 #+BEGIN_QUOTE
 I'm an assistant professor at Paris-South University in Orsay. I'm currently
 working on neutrino physics at the Linear Accelerator Laboratory, looking for
-Majorana neutrino wit SuperNEMO experiment. Take a look at my [[http://xgarrido.github.io/org-resume/][C.V.]] or scroll
+Majorana neutrino with the SuperNEMO experiment. Take a look at my [[http://xgarrido.github.io/org-resume/][C.V.]] or scroll
 down to read about some of the projects that I'm working on.
 #+END_QUOTE
 
 * Research
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: section section-title
+:END:
+
+* Web Application & Misc.
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: section section-title
 :END:
@@ -53,5 +58,3 @@ I'm on [[http://github.com/xgarrido][GitHub]] and here's my [[http://xgarrido.gi
 
 Unless otherwise noted, all content by [[http://dan.iel.fm/][Dan Foreman-Mackey]]. Licensed under
 [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons]].
-
-<<html-postamble()>>

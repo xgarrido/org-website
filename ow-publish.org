@@ -206,8 +206,8 @@ headline trees but hide their content in the resulting html.
 
   img.author {
       float: right;
-      width: 80px;
-      border: 1px solid #e5e5e5;
+      width: 90px;
+      border: 2px solid #e5e5e5;
       border-radius: 1000px;
   }
 #+END_SRC
@@ -311,7 +311,7 @@ headline trees but hide their content in the resulting html.
 #+END_SRC
 ***** Footer
 #+BEGIN_SRC css
-  .footer {
+  .footer, #postamble {
       clear: both;
       width: 590px;
       margin: 0 5px 0 205px;
@@ -329,14 +329,9 @@ headline trees but hide their content in the resulting html.
       margin: 0;
       margin-bottom: 5px;
   }
-#+END_SRC
-**** Preamble, postamble
-#+BEGIN_SRC css
+
   #postamble {
-      margin-top: 10px;
-      text-align: center;
-      font-size: 11px;
-      clear: both;
+      margin-top: -7em;
   }
 #+END_SRC
 
