@@ -1,4 +1,4 @@
-#+TITLE: Org Website - Main
+#+TITLE: Xavier Garrido
 #+OPTIONS: title:nil
 
 * Header
@@ -60,7 +60,7 @@ down to read about some of the projects that I'm working on.
 :HTML_CONTAINER_CLASS: section project
 :END:
 
-- [[http://xgarrido.github.io/d3-change.org][d3-change.org]] :: A use case for playing with d3 JavaScript visualization
+- [[http://xgarrido.github.io/d3-change.org][d3-change.org]] :: A use case for playing with [[http://d3js.org/][d3js]] JavaScript visualization
 
 - [[http://xgarrido.github.io/emacs-starter-kit/][emacs-starter-kit]] :: A literate [[http://orgmode.org/][org-mode]] based configuration for emacs
 
