@@ -114,14 +114,18 @@ This code defines the =ow-publish= which are used to publish the website into
   }
 
   h3 {
-      margin: 18px 0 6px;
+      margin: 0 5px;
       padding: 0;
-      color: #9d9d85;
-      font-family: "Helvetica Neue", sans-serif;
+      text-align: right;
+      font-style: italic;
+      font-weight: bold;
       font-size: 14px;
-      font-weight: normal;
-      text-transform: uppercase;
   }
+
+  h3 a {
+      font-weight: inherit !important;
+  }
+
 #+END_SRC
 
 Headline with custom id =hidden= are going to be hidden. In this way, I can use
@@ -299,7 +303,7 @@ headline trees but hide their content in the resulting html.
       padding-top: 25px;
   }
 
-  .section-title {
+  .section h2 {
       margin-left: 205px;
   }
 
@@ -308,6 +312,36 @@ headline trees but hide their content in the resulting html.
       margin: 0 5px 0 205px;
   }
 
+#+END_SRC
+***** Project
+#+BEGIN_SRC css
+  .project {
+      line-height: 24px;
+      display: block;
+      margin-bottom: 8px;
+  }
+
+  .project h3 {
+      display: inline-block;
+      float: left;
+      width: 190px;
+  }
+
+  .project:after {
+      content: ".";
+      display: block;
+      clear: both;
+      visibility: hidden;
+      line-height: 0;
+      height: 0;
+  }
+
+  .project p {
+      display: inline-block;
+      float: left;
+      width: 590px;
+      margin: 0 5px;
+  }
 #+END_SRC
 ***** Footer
 #+BEGIN_SRC css

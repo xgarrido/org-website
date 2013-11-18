@@ -40,13 +40,39 @@ down to read about some of the projects that I'm working on.
 
 * Research
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: section section-title
+:HTML_CONTAINER_CLASS: section project
 :END:
+
+** [[http://xgarrido.github.io/snemo_simulation_configuration][SuperNEMO configuration files]]
+
+A literate version of SuperNEMO configuration files for [[https://nemo.lpc-caen.in2p3.fr/wiki/Software][/SN@ilWare/ software]]
+
+* Teaching
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: section project
+:END:
+
+** [[http://xgarrido.github.io/master_cpp_teaching][C++ lectures]]
+
+French lectures given at the Master 1 of Fundamental Physics in the University
+of Paris-South
 
 * Web Application & Misc.
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: section section-title
+:HTML_CONTAINER_CLASS: section project
 :END:
+
+** [[http://xgarrido.github.io/d3-change.org][d3-change.org]]
+
+A use case for playing with d3 JavaScript visualization
+
+** [[http://xgarrido.github.io/emacs-starter-kit/][emacs-starter-kit]]
+
+A literate [[http://orgmode.org/][org-mode]] based configuration for emacs
+
+** [[https://github.com/xgarrido/latex-templates][LaTeX templates]]
+
+Some LaTeX templates for article, beamer...
 
 * Footer
 :PROPERTIES:
