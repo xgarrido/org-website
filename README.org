@@ -1,13 +1,15 @@
 #+TITLE:  Org Website
 #+AUTHOR: Xavier Garrido
 
+* Org Website - README
+
 A repository for a very basic homepage. It uses [[http://orgmode.org][org-mode]] and a custom style
 sheet from [[http://dan.iel.fm/][Dan Foreman-Mackey]] website.
 
 This repository holds different files
 
-- [[file:ow-publish.org][ow-publish.org]] file embeds the org-mode configuration /i.e./ the CSS style +
-  the org publish function
-- [[file:ow-main.org][ow-main.org]] file is the =index.html=
+- [[file:ow-publish.org][ow-publish.org]] embeds the org-mode configuration /i.e./ the CSS style + the
+  org publish function
+- [[file:ow-main.org][ow-main.org]] holds the =index.html=
 
 A =Makefile= is provided to produce the =html= files.

@@ -95,7 +95,7 @@ This code defines the =ow-publish= which are used to publish the website into
   h1 {
       margin: 0;
       padding: 0;
-      color: #1d1d25;
+      color: #393939;
       font-family: "Yanone Kaffeesatz", sans-serif;
       font-size: 24pt;
       font-weight: normal;
@@ -112,20 +112,6 @@ This code defines the =ow-publish= which are used to publish the website into
       font-family: "Yanone Kaffeesatz", sans-serif;
       font-size: 18pt;
   }
-
-  h3 {
-      margin: 0 5px;
-      padding: 0;
-      text-align: right;
-      font-style: italic;
-      font-weight: bold;
-      font-size: 14px;
-  }
-
-  h3 a {
-      font-weight: inherit !important;
-  }
-
 #+END_SRC
 
 Headline with custom id =hidden= are going to be hidden. In this way, I can use
@@ -321,22 +307,32 @@ headline trees but hide their content in the resulting html.
       margin-bottom: 8px;
   }
 
-  .project h3 {
+  .project dt {
       display: inline-block;
       float: left;
       width: 190px;
+      margin: 0 5px;
+      padding: 0;
+      text-align: right;
+      font-style: italic;
+      font-weight: bold;
+      font-size: 14px;
   }
 
-  .project:after {
+  .project dt a {
+      font-weight: inherit !important;
+  }
+
+  /*.project:after {
       content: ".";
       display: block;
       clear: both;
       visibility: hidden;
       line-height: 0;
       height: 0;
-  }
+  }*/
 
-  .project p {
+  .project dd {
       display: inline-block;
       float: left;
       width: 590px;

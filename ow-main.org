@@ -43,36 +43,28 @@ down to read about some of the projects that I'm working on.
 :HTML_CONTAINER_CLASS: section project
 :END:
 
-** [[http://xgarrido.github.io/snemo_simulation_configuration][SuperNEMO configuration files]]
-
-A literate version of SuperNEMO configuration files for [[https://nemo.lpc-caen.in2p3.fr/wiki/Software][/SN@ilWare/ software]]
+- [[http://xgarrido.github.io/snemo_simulation_configuration][SuperNEMO configuration files]] :: A literate version of SuperNEMO configuration
+     files for [[https://nemo.lpc-caen.in2p3.fr/wiki/Software][/SN@ilWare/ software]] that use [[http://orgmode.org/][org-mode]] powers to tangle and to
+     generate documentation
 
 * Teaching
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: section project
 :END:
 
-** [[http://xgarrido.github.io/master_cpp_teaching][C++ lectures]]
-
-French lectures given at the Master 1 of Fundamental Physics in the University
-of Paris-South
+- [[http://xgarrido.github.io/master_cpp_teaching][C++ lectures]] :: French lectures given at the Master 1 of Fundamental Physics
+                  in the University of Paris-South
 
 * Web Application & Misc.
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: section project
 :END:
 
-** [[http://xgarrido.github.io/d3-change.org][d3-change.org]]
+- [[http://xgarrido.github.io/d3-change.org][d3-change.org]] :: A use case for playing with d3 JavaScript visualization
 
-A use case for playing with d3 JavaScript visualization
+- [[http://xgarrido.github.io/emacs-starter-kit/][emacs-starter-kit]] :: A literate [[http://orgmode.org/][org-mode]] based configuration for emacs
 
-** [[http://xgarrido.github.io/emacs-starter-kit/][emacs-starter-kit]]
-
-A literate [[http://orgmode.org/][org-mode]] based configuration for emacs
-
-** [[https://github.com/xgarrido/latex-templates][LaTeX templates]]
-
-Some LaTeX templates for article, beamer...
+- [[https://github.com/xgarrido/latex-templates][LaTeX templates]] :: Some LaTeX templates for article, beamer...
 
 * Footer
 :PROPERTIES:
@@ -80,7 +72,7 @@ Some LaTeX templates for article, beamer...
 :CUSTOM_ID: hidden
 :END:
 
-I'm on [[http://github.com/xgarrido][GitHub]] and here's my [[http://xgarrido.github.io/org-resume/][C.V.]].
+I'm on [[http://github.com/xgarrido][GitHub]] and here's my [[http://xgarrido.github.io/org-resume/][C.V.]]
 
 Unless otherwise noted, all content by [[http://dan.iel.fm/][Dan Foreman-Mackey]]. Licensed under
 [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons]].
