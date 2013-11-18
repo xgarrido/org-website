@@ -23,10 +23,10 @@ html: $(FILES)
 publish: html
 	@find pub -name *.*~ | xargs rm -f
 	@(cd pub/ && tar czvf /tmp/org-website-publish.tar.gz .)
-	@git checkout xgarrido.github.io
+	@git checkout gh-pages
 	@tar xzvf /tmp/org-website-publish.tar.gz
-	# @if [ -n "`git status --porcelain`" ]; then git commit -am "update doc" && git push; fi
-	# @git checkout master
+	@if [ -n "`git status --porcelain`" ]; then git commit -am "update website" && git push website HEAD:master; fi
+	@git checkout master
 	@echo "NOTICE: HTML documentation published"
 
 clean:
