@@ -22,7 +22,7 @@
 :END:
 
 @@html:<h1>@@[[http://xgarrido.github.io][Xavier Garrido]]@@html:</h1>@@
-[[http://xgarrido.github.io][@@html:<small><i class="fa fa-github-alt"></i>@@ xgarrido@@html:</small>@@]]
+[[https://github.com/xgarrido][@@html:<small><i class="fa fa-github-alt"></i>@@ xgarrido@@html:</small>@@]]
 [[mailto:xgarrido.garrido@lal.in2p3.fr][@@html:<small><i class="fa fa-envelope-o"></i>@@ contact@@html:</small>@@]]
 
 * Biography

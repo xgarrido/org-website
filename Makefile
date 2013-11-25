@@ -7,7 +7,7 @@ BATCH=$(EMACS) --batch --no-init-file					\
          '((sh . t)))"							\
   --eval "(setq org-confirm-babel-evaluate nil)"			\
   --eval '(setq starter-kit-dir default-directory)'			\
-  --eval '(org-babel-tangle-file "ow-publish.org")'	              		\
+  --eval '(org-babel-tangle-file "ow-publish.org")'	              	\
   --eval '(org-babel-load-file   "ow-publish.org")'
 
 FILES = ow-main.org
