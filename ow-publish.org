@@ -94,14 +94,14 @@ This code defines the =ow-publish= which are used to publish the website into
   h1 {
       margin: 0;
       padding: 0;
-      color: #393939;
+      color: #777777;
       font-family: "Yanone Kaffeesatz", sans-serif;
       font-size: 24pt;
-      font-weight: normal;
   }
 
   h1 a {
       color: inherit !important;
+      font-weight: 500;
   }
 
   h2 {
