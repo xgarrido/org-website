@@ -62,6 +62,8 @@ down to read about some of the projects that I'm working on.
 
 - [[http://xgarrido.github.io/d3-change.org][d3-change.org]] :: A use case for playing with [[http://d3js.org/][d3js]] JavaScript visualization
 
+- [[http://xgarrido.github.io/org-life][org-life]] :: An implementation of [[https://github.com/cheeaun/life][cheeaun life]] project based on a =org= file
+
 - [[http://xgarrido.github.io/emacs-starter-kit/][emacs-starter-kit]] :: A literate [[http://orgmode.org/][org-mode]] based configuration for emacs
 
 - [[https://github.com/xgarrido/latex-templates][LaTeX templates]] :: Some LaTeX templates for article, beamer...
