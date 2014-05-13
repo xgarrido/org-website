@@ -16,7 +16,7 @@ This code defines the =ow-publish= which are used to publish the website into
 #+NAME: html-postamble
 #+BEGIN_SRC sh :tangle no :results output
   if [ -d .git ]; then
-      LC_MESSAGES=en git --no-pager log -1 HEAD --date=short --pretty=format:'Last update %ad - <i class="fa fa-github-alt"></i> commit <a href=https://github.com/xgarrido/org-website/commit/%H>%h</a>'
+      LC_MESSAGES=en git --no-pager log -1 HEAD --date=short --pretty=format:'Last update %ad - <i class=\"fa fa-github-alt\"></i> commit <a href=https://github.com/xgarrido/org-website/commit/%H>%h</a>'
   fi
 #+END_SRC
 ** Building html preamble
