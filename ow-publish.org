@@ -76,14 +76,14 @@ This code defines the =ow-publish= which are used to publish the website into
 * CSS stylesheets
 ** Main stylesheets
 :PROPERTIES:
-:TANGLE:   pub/css/screen.css
+:HEADER-ARGS: :tangle pub/css/screen.css
 :END:
 *** Google fonts
 #+BEGIN_SRC css
-  @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-  @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
-  @import url(https://fonts.googleapis.com/css?family=Inconsolata);
+  @import url(//fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+  @import url(//fonts.googleapis.com/css?family=Open+Sans);
+  @import url(/fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
+  @import url(//fonts.googleapis.com/css?family=Inconsolata);
 #+END_SRC
 
 *** Main =css= definitions
@@ -375,7 +375,7 @@ headline trees but hide their content in the resulting html.
 
 ** Org source code styles
 :PROPERTIES:
-:TANGLE: pub/css/org-pygments.css
+:HEADER-ARGS: :tangle pub/css/org-pygments.css
 :END:
 
 #+BEGIN_SRC css
