@@ -54,7 +54,7 @@ down to read about some of the projects that I'm working on.
 :HTML_CONTAINER_CLASS: section project
 :END:
 
-- [[http://xgarrido.github.io/licence_python_teaching][Python lectures]] :: French classes given at the Licence 3 of Fundamental
+- [[http://xgarrido.github.io/licence_python_teaching][Python lectures]] :: French lectures given at the Licence 3 of Fundamental
      Physics in the University of Paris-South
 - [[http://xgarrido.github.io/licence_em_teaching][Electromagnetism]] :: French classes given at the Licence 3 of Fundamental
      Physics in the University of Paris-South
