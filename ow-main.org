@@ -32,10 +32,11 @@
 :END:
 
 #+BEGIN_QUOTE
-I'm an assistant professor at Paris-South University in Orsay. I'm currently
-working on neutrino physics at the Linear Accelerator Laboratory, looking for
-Majorana neutrino with the SuperNEMO experiment. Take a look at my [[http://xgarrido.github.io/org-resume/][C.V.]] or scroll
-down to read about some of the projects that I'm working on.
+I am an assistant professor at [[https://www.universite-paris-saclay.fr][Paris-Saclay University]], working at Laboratoire de Physique des 2
+infinis -- Irène Joliot-Curie (aka [[https://www.ijclab.in2p3.fr][IJCLab]]). I am currently working in observational cosmology with
+the [[https://simonsobservatory.org][Simons Observatory]]. I have also worked in neutrino physics, looking for Majorana neutrino with
+the SuperNEMO experiment. Take a look at my [[http://xgarrido.github.io/org-resume/][C.V.]] or scroll down to read about some of the projects
+that I am working on.
 #+END_QUOTE
 
 * Research
@@ -43,9 +44,13 @@ down to read about some of the projects that I'm working on.
 :HTML_CONTAINER_CLASS: section project
 :END:
 
+- [[https://github.com/simonsobs/psplay][psplay]] :: An interactive way to compute CMB power spectra (done with [[https://github.com/thibautlouis][T. Louis]] & [[https://github.com/amaurea][S.  Naess]] -- demo
+     [[https://www.youtube.com/watch?v=5IpHZ4WWf2Q][video]])
+
 - [[http://xgarrido.github.io/snemo_simulation_configuration][SuperNEMO configuration files]] :: A literate version of SuperNEMO configuration
      files for [[https://nemo.lpc-caen.in2p3.fr/wiki/Software][/SN@ilWare/ software]] that use [[http://orgmode.org/][org-mode]] powers to tangle and to
      generate documentation
+
 - [[http://xgarrido.github.io/snemo_simulation_modules][/SN@ilWare/ modules]] :: A literate version of software modules to be used
      within [[https://nemo.lpc-caen.in2p3.fr/wiki/Software][/SN@ilWare/ framework]]
 
