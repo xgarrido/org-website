@@ -83,8 +83,8 @@ that I am working on.
 
 - [[https://github.com/xgarrido/latex-templates][LaTeX templates]] :: Some LaTeX templates for article, beamer...
 
-- [[https://mybinder.org/v2/gh/xgarrido/tag-app/HEAD?urlpath=voila%2Frender%2Fapp.ipynb][tag-app]]
-     :: A =jupyter= application powered by =voila= to tag =pdf= files
+- [[https://mybinder.org/v2/gh/xgarrido/tag-app/HEAD?urlpath=voila%2Frender%2Fapp.ipynb][tag-app]] :: A =jupyter= application powered by =voila= to tag =pdf= files
+
 * Footer
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: footer
