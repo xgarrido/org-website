@@ -85,6 +85,16 @@ that I am working on.
 
 - [[https://mybinder.org/v2/gh/xgarrido/tag-app/HEAD?urlpath=voila%2Frender%2Fapp.ipynb][tag-app]] :: A =jupyter= application powered by =voila= to tag =pdf= files
 
+
+* Blog
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: section project
+:END:
+
+- [[https://xgarrido.github.io/blog/jupyter/plotly/2021/01/18/plotly.html][Jan 18, 2021]] :: Plotly Library within fastpages
+
+- [[https://xgarrido.github.io/blog/jupyter/planet/perlin%20noise/2021/01/15/noisy-planet.html][Jan 15, 2021]] :: Noisy Planet
+
 * Footer
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: footer
