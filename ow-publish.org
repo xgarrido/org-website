@@ -51,12 +51,12 @@ This code defines the =ow-publish= which are used to publish the website into
      <link rel=\"stylesheet\" href=\"css/screen.css\"/>
      <link rel=\"stylesheet\" href=\"css/org-pygments.css\"/>
      <!-- Global site tag (gtag.js) - Google Analytics -->
-     <script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-46850738-1\"></script>
+     <script async src=\"https://www.googletagmanager.com/gtag/js?id=G-93BZDC99TB\"></script>
      <script>
        window.dataLayer = window.dataLayer || [];
        function gtag(){dataLayer.push(arguments);}
        gtag('js', new Date());
-       gtag('config', 'UA-46850738-1');
+       gtag('config', 'G-93BZDC99TB');
      </script>"
      :html-preamble  "<<html-preamble()>>"
      :html-postamble "<<html-postamble()>>"
