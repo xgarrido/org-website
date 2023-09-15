@@ -187,7 +187,7 @@ headline trees but hide their content in the resulting html.
   }
 
   dt {
-      color:#444;
+      color:#3399cc;
       font-weight:700;
   }
 

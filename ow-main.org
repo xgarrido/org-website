@@ -61,11 +61,11 @@ that I am working on.
 
 - [[http://xgarrido.github.io/licence_python_teaching][Python lectures]] :: French lectures given at the Licence 3 of Fundamental Physics in the University
      of Paris-South
-- [[http://xgarrido.github.io/licence_em_teaching][Electromagnetism]] :: French classes given at the Licence 3 of Fundamental Physics in the University
+- Electromagnetism :: French classes given at the Licence 3 of Fundamental Physics in the University
      of Paris-South
 - [[http://xgarrido.github.io/master_cpp_teaching][C++ lectures]] :: French lectures given at the Master 1 of Fundamental Physics in the University of
      Paris-South
-- [[http://xgarrido.github.io/master_npp_teaching][Nucleus & Particle Physics]] :: French classes at the Master 1 of Fundamental Physics in the
+- Nucleus & Particle Physics :: French classes at the Master 1 of Fundamental Physics in the
      University of Paris-South
 
 * Web Application & Misc.
