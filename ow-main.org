@@ -60,13 +60,15 @@ that I am working on.
 :END:
 
 - [[http://xgarrido.github.io/licence_python_teaching][Python lectures]] :: French lectures given at the Licence 3 of Fundamental Physics in the University
-     of Paris-South
+     of Paris-Saclay
 - Electromagnetism :: French classes given at the Licence 3 of Fundamental Physics in the University
-     of Paris-South
+     of Paris-Saclay
 - [[http://xgarrido.github.io/master_cpp_teaching][C++ lectures]] :: French lectures given at the Master 1 of Fundamental Physics in the University of
-     Paris-South
+     Paris-Saclay
 - Nucleus & Particle Physics :: French classes at the Master 1 of Fundamental Physics in the
-     University of Paris-South
+     University of Paris-Saclay
+- Special Relativity :: French classes at the Licence 3 of Fundamental Physics in the
+     University of Paris-Saclay
 
 * Web Application & Misc.
 :PROPERTIES:
