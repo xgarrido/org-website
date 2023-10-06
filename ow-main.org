@@ -88,7 +88,7 @@ that I am working on.
 - [[https://mybinder.org/v2/gh/xgarrido/tag-app/HEAD?urlpath=voila%2Frender%2Fapp.ipynb][tag-app]] :: A =jupyter= application powered by =voila= to tag =pdf= files
 
 
-* Blog
+* COMMENT Blog
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: section project
 :END:
