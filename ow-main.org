@@ -107,5 +107,5 @@ I'm on [[http://github.com/xgarrido][GitHub]] and here's my
 [[http://xgarrido.github.io/org-resume][C.V.]] and some
 [[https://xgarrido.pages.in2p3.fr/org-blog][stuff]] I did (restricted area)
 
-Unless otherwise noted, all content by [[http://dan.iel.fm][Dan Foreman-Mackey]]. Licensed under
+Unless otherwise noted, all content by [[http://dfm.io][Dan Foreman-Mackey]]. Licensed under
 [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons]].
