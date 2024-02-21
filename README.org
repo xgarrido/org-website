@@ -1,8 +1,6 @@
 #+TITLE:  Org Website
 #+AUTHOR: Xavier Garrido
 
-* Org Website - README
-
 A repository for a very basic homepage. It uses [[http://orgmode.org][org-mode]] and a custom style
 sheet from [[http://dan.iel.fm/][Dan Foreman-Mackey]] website.
 
