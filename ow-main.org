@@ -44,7 +44,7 @@ that I am working on.
 :HTML_CONTAINER_CLASS: section project
 :END:
 
-- [[https://github.com/simonsobs/psplay][psplay]] :: An interactive way to compute CMB power spectra (done with [[https://github.com/thibautlouis][T. Louis]] & [[https://github.com/amaurea][S.  Naess]] -- demo
+- [[https://github.com/simonsobs/psplay][psplay]] :: An interactive way to compute CMB power spectra (done with [[https://github.com/thibautlouis][T. Louis]] & [[https://github.com/amaurea][S. Naess]] -- demo
      [[https://www.youtube.com/watch?v=5IpHZ4WWf2Q][video]])
 
 - [[http://xgarrido.github.io/snemo_simulation_configuration][SuperNEMO configuration files]] :: A literate version of SuperNEMO configuration
