@@ -103,9 +103,7 @@ that I am working on.
 :CUSTOM_ID: hidden
 :END:
 
-I'm on [[http://github.com/xgarrido][GitHub]] and here's my
-[[http://xgarrido.github.io/org-resume][C.V.]] and some
-[[https://xgarrido.pages.in2p3.fr/org-blog][stuff]] I did (restricted area)
+I'm on [[http://github.com/xgarrido][GitHub]] and here's my [[http://xgarrido.github.io/org-resume][C.V.]].
 
 Unless otherwise noted, all content by [[http://dfm.io][Dan Foreman-Mackey]]. Licensed under
 [[http://creativecommons.org/licenses/by-nc-sa/3.0/][Creative Commons]].
