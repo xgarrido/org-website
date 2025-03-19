@@ -23,7 +23,7 @@
 
 @@html:<h1>@@[[http://xgarrido.github.io][Xavier Garrido]]@@html:</h1>@@
 [[https://github.com/xgarrido][@@html:<small><i class="fab fa-github-alt"></i>@@ xgarrido@@html:</small>@@]]
-[[mailto:xavier.garrido@lal.in2p3.fr][@@html:<small><i class="far fa-envelope"></i>@@ contact@@html:</small>@@]]
+[[mailto:xavier.garrido@ijclab.in2p3.fr][@@html:<small><i class="far fa-envelope"></i>@@ contact@@html:</small>@@]]
 
 * Biography
 :PROPERTIES:
